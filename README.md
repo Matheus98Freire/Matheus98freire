@@ -9,11 +9,11 @@
 
 - 🔭 Atualmente estou trabalhando **no Açaí Concept Franchising**
 
-- 🌱 Eu estou aprendendo atualmente **Python, SQL, Machine Learning , Powerbi**
+- 🌱 Eu estou aprendendo **Python, SQL, Machine Learning , Powerbi**
 
-- 👯 Eu procuro colaborar **em projetos de ciências de dados**
+- 👯 Eu procuro colaborar **em projetos de Ciências de Dados**
 
-- 💬 Me pergunte sobre **Ciências de Dados, Python, SQL**
+- 💬 Me pergunte sobre **Ciências de Dados, Python, SQL e Powerbi**
 
 - 📫 Fale comigo em **matheus98freire@gmail.com**
 
