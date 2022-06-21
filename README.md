@@ -7,6 +7,7 @@
 
 
 
+
 - 🔭 Atualmente estou trabalhando **no Açaí Concept Franchising**
 
 - 🌱 Eu estou aprendendo **Python, SQL, Machine Learning , Powerbi**
@@ -20,6 +21,7 @@
 - 📄 Saiba mais sobre mim [https://www.linkedin.com/in/matheus-freire-019325146/](https://www.linkedin.com/in/matheus-freire-019325146/)
 
 - ⚡ Curiosidades sobre mim **Sou apaixonado por esportes em especial Futebol**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matheus98freire&label=Profile%20views&color=0e75b6&style=flat" alt="matheus98freire" /> </p>
 <h3 align="left">Connect with me:</h3>
