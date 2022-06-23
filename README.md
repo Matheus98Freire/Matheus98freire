@@ -18,7 +18,7 @@
 
 - 📫 Fale comigo em **matheus98freire@gmail.com**
 
-- 📄 Saiba mais sobre mim [https://www.linkedin.com/in/matheus-freire-019325146/](https://www.linkedin.com/in/matheus-freire-019325146/)
+- 📄 Saiba mais sobre mim [www.linkedin.com/in/matheus-sfreire](www.linkedin.com/in/matheus-sfreire)
 
 - ⚡ Curiosidades sobre mim **Sou apaixonado por esportes em especial Futebol**
 
